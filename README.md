@@ -15,15 +15,6 @@ Mohan krishna
 📚 Ecommerce Platform - ShopEZ
 
 Welcome to ShopEZ, our E-commerce application project built with the MERN stack! 🌐 This project aims to create a seamless shopping experience for users while providing a robust backend for product and user management.
-
-👥 Team Members
-
-Imran Khan V
-Janarthanan M
-Gokul Prakash R
-Jagan P
-📝 Project Overview
-
 ShopEZ is designed to provide a smooth e-commerce experience where users can browse, search, and purchase products. The platform supports user authentication, order tracking, and secure payment options. Administrators can manage inventory, orders, and customers from a streamlined dashboard.
 
 🛠️ Tech Stack
